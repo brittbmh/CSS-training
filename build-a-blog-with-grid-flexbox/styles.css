@@ -50,9 +50,9 @@ main-content section {
 }
 
 .card {
-    display: grid;
-    grid-template-columns: 1fr;
-    background-color: rgb(232, 233, 221);
+    /* display: grid; */
+    /* grid-template-columns: 1fr; */
+    background-color: rgb(218, 221, 190);
 }
 
 .card-details {
@@ -67,7 +67,7 @@ main-content section {
 }
 
 .card img {
-    max-width: 1fr;
+    padding: 1em;
 }
 
 .footer {
