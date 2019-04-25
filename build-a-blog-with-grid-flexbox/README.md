@@ -1,0 +1,1 @@
+Followed tutorial: https://www.creativebloq.com/how-to/build-a-blog-with-grid-and-flexbox
