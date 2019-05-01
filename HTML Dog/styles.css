@@ -1,0 +1,71 @@
+p {
+    font: 1em arial, helvetica, sans-serif;
+}
+
+#va {
+    font-size: 40px;
+}
+
+#zero {
+    font-size: 0.5em;
+    vertical-align: text-top;
+}
+
+#one {
+    font-size: 0.5em;
+    vertical-align: top;
+}
+
+#two {
+    vertical-align: -0.5em;
+}
+
+#three {
+    font-size: 0.5em;
+    vertical-align: middle;
+}
+
+#four {
+    font-size: 0.5em;
+    vertical-align: sub;
+}
+
+#five {
+    font-size: 1.5em;
+    vertical-align: 0.5em;
+}
+
+#six {
+    font-size: 0.5em;
+    vertical-align: super;
+}
+
+#seven {
+    color: #0a0;
+    vertical-align: super;
+}
+
+/* p:first-of-type:first-letter {
+    float: left;
+    font-size: 45px;
+    line-height: 1;
+    font-weight: bold;
+    margin-right: 9px;
+} */
+
+article {
+    width: 500px;
+}
+
+.pquote {
+    float: left;
+    width: 100px;
+    background: #ddf;
+    font-weight: bold;
+    padding: 13px;
+    margin: 0 13px 13px 0;
+}
+
+blockquote {
+    margin: 0;
+}
